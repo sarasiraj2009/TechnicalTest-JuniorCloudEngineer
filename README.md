@@ -7,3 +7,9 @@ Tech Test
     Ideally the web page should be secure.
     The Vpc should be appropriately split into the required subnets.
     The hosts should be running Linux and the choice of web server is down to the individual. The use of modules would be a good step but the focus should be on good terraform structure.
+
+
+
+Update
+hjdfghhgd
+edfg
